@@ -53,5 +53,7 @@ The chatbot accepts user questions through a Streamlit interface and returns the
 - User Authentication
 - Dynamic FAQ Management
 
+## Dashboard Overview
+
 ## Author
 Palak Rathor
