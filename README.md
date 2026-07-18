@@ -54,6 +54,9 @@ The chatbot accepts user questions through a Streamlit interface and returns the
 - Dynamic FAQ Management
 
 ## Dashboard Overview
+<img width="1343" height="582" alt="Image" src="https://github.com/user-attachments/assets/3594b148-ad25-4f85-a5c6-93695739b72e" />
+
+<img width="581" height="443" alt="Image" src="https://github.com/user-attachments/assets/ac359354-c69d-4edf-97ce-58b1c52aa033" />
 
 ## Author
 Palak Rathor
